@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a data analyst intern.<br>I am working on a Python pandas project.<br>I am working on the Power BI Dashboard.<br>
+I am currently working as a AI Software Engineer.
 
 
 ## 🌐 Socials:
